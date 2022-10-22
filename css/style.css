@@ -6,12 +6,12 @@ body{
     font-weight: 500;
 }
 .forget-password .panel-default{
-    padding: 31%;
-    margin-top: -27%;
+    padding: 20%;
+    margin-top: -14%;
 }
 .forget-password .panel-body{
     padding: 15%;
-    margin-bottom: -50%;
+    margin-bottom: -21%;
     background: #fff;
     border-radius: 5px;
     -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
