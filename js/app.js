@@ -7,6 +7,7 @@
  - va applicato uno sconto del 40% per gli over 65.
 */
 const bottone = document.querySelector(".genera")
+const ticketMenu = document.querySelector(".ticket");
 
 bottone.addEventListener('click', function (){
     const resultNome = document.getElementById("nome").value;    
@@ -33,16 +34,7 @@ bottone.addEventListener('click', function (){
 
     document.querySelector(".nome-passeggero").innerHTML = resultNome;
     
-    const ticketMenu = document.querySelector(".ticket");
+    
     ticketMenu.className = ticketMenu.className + ".show"
 
 });
-
-function fun(){  
-    document.getElementById("myForm").reset();  
-}   
-
-
-
-
-
