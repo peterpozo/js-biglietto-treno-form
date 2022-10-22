@@ -38,8 +38,6 @@ img{
 
 .ticket{
     display: none;
-    background-color: white;
-    border-radius: 0.4rem;
 }
 
 .ticket.show{
