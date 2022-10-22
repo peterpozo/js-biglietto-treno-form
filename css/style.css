@@ -35,3 +35,8 @@ img{
 .forget-password .dropdown ul{
     width: 100%;
 }
+
+.ticket{
+    background-color: white;
+    border-radius: 0.4rem;
+}
