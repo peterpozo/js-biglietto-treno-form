@@ -34,7 +34,7 @@ bottone.addEventListener('click', function (){
     document.querySelector(".nome-passeggero").innerHTML = resultNome;
     
     const ticketMenu = document.querySelector(".ticket");
-    ticketMenu.className = ticketMenu.className + ".show"
+    ticketMenu.classList = ticketMenu.classList + ".show"
 
 	
 });
